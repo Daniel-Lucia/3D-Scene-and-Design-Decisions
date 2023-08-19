@@ -1,4 +1,5 @@
 # 3D-Scene-and-Design-Decisions
+My 3D scene was too big so I could not add it to the files.
 
 How do I approach designing software?  
 What new design skills has your work on the project helped you to craft?  
